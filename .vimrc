@@ -2,6 +2,8 @@
 
 syntax on
 colorscheme atom-dark
+set t_Co=256
+set background=dark
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
