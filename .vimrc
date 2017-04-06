@@ -1,3 +1,7 @@
+" Vim Configuration file
+
+syntax on
+colorscheme atom-dark
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
